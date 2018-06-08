@@ -24,6 +24,9 @@ public class Lesson5 {
            if (z==200) //compare
                break;
 
+
+
+
        }
 
 
