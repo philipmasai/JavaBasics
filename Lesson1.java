@@ -4,7 +4,7 @@ public class Lesson1 {//type psv. if you want to rename. highlight then right cl
     public static void main(String[] args) {
         //variables =store data
         int age=18; //normal number
-        double height=1.8; // any decimal number.You can use an double to store an integer.
+        double height=1.8; // any decimal number.You can use a double to store an integer.
         double size=0.0005;
         double weight=70;
         double result=age*height;

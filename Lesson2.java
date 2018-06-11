@@ -11,7 +11,7 @@ public class Lesson2 {
             System.out.println("Logged in successfully"); }
             else
                 {
-            System.out.println("wrong uusername or password");
+            System.out.println("wrong username or password");
             }
     }
 }
